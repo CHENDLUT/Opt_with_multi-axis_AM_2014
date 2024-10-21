@@ -1,1 +1,1 @@
-# vericut-simulation
+These videos are supplementary materials for the following paper: Qichen, Guo, et al. "Design and validation of 3D self-supporting structures and printing paths for multi-axis additive manufacturing", Additive Manufaturing (2024).
